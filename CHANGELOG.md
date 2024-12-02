@@ -2,6 +2,15 @@
 
 This file was generated using [@jscutlery/semver](https://github.com/jscutlery/semver).
 
+# 0.1.0 (2024-12-02)
+
+
+### Features
+
+* alteracao ([5658db8](https://github.com/fixecrm/new-fixe-sdk/commit/5658db86954eddc5aecc833551fc4680ae65b64e))
+
+
+
 # [1.1.0](https://github.com/fixecrm/fixe-sdk/compare/v1.0.0...v1.1.0) (2023-07-26)
 
 
