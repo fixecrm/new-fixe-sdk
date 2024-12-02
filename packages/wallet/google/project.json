@@ -1,5 +1,5 @@
 {
-  "name": "@fixe-sdk/wallet-google",
+  "name": "@new-fixe-sdk/wallet-google",
   "$schema": "../../../node_modules/nx/schemas/project-schema.json",
   "sourceRoot": "packages/wallet/google/src",
   "projectType": "library",
